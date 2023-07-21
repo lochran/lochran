@@ -25,15 +25,17 @@
 </div>
 
 
+### 🎓 Academics:
+
+- 2023 graduate from Edinburgh Napier University, achieving a Bachelor of Engineering with First Class Honours in Software Engineering.
+- Winner of the 'Edinburgh Napier University, School of Computing Group Project' award in 2022 (virtual reality fire safety scenario).
+- Student Representative for the Software Engineering groups of 2021/2 and 2022/3.
+
+
 ### 📌 About Me:
 
-- 🎓 2023 graduate from Edinburgh Napier University, achieving a Bachelor of Engineering with First Class Honours in Software Engineering.
-
-- 🏆 Winner of the 'Edinburgh Napier University, School of Computing Group Project' award in 2022 (virtual reality fire safety scenario).
-
-- 📝 Student Representative for the Software Engineering groups of 2021/2 and 2022/3.
-
-- 🎲 Interested in front-end development, with this topic being an area of personal study.
+- Interested in front-end development, with this topic being an area of personal study.
+- Currently living in Glasgow, Scotland.
 
 ---
 
